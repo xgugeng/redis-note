@@ -39,7 +39,7 @@ typedef struct dictEntry {
 }
 ```
 
- ![k1-k0](img/chap4/k1-k0.png)
+![k1-k0](img/chap4/k1-k0.png)
 
 Redis中的**字典**由dict.h/dict结构表示：
 
@@ -159,6 +159,6 @@ load_factor = ht[0].used / ht[0].size
 
 [目录](README.md)
 
-上一章：[3. 链表](3. 链表.md)
+上一章：[3. 链表](ch3.md)
 
-下一章：[5. 跳跃表](5. 跳跃表.md)
+下一章：[5. 跳跃表](ch5.md)

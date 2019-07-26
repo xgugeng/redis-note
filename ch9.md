@@ -272,6 +272,6 @@ def notifyKeyspaceEvent(type, event, key, bdid):
 
 [目录](README.md)
 
-上一章：[8. 对象](8. 对象.md)
+上一章：[8. 对象](ch8.md)
 
-下一章：[10. RDB持久化](10. RDB持久化.md)
+下一章：[10. RDB持久化](ch10.md)
